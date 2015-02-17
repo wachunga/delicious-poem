@@ -1,0 +1,6 @@
+{
+	"title": "Delicious",
+	"form": "./form.js",
+	"body": "./body.js",
+	"run": true
+}

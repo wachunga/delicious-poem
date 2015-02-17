@@ -1,0 +1,17 @@
+{
+  "name": "delicious-poem",
+  "version": "1.0.0",
+  "description": "A javascript poem.",
+  "main": "poem.json",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wachunga/delicious-poem.git"
+  },
+  "keywords": [
+    "poem",
+    "code",
+    "poetry"
+  ],
+  "author": "David Hirtle <wachunga@gmail.com>",
+  "homepage": "https://github.com/wachunga/delicious-poem"
+}
